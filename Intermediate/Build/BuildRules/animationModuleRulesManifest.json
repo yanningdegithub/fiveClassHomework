@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\ue4Project\\tencentClassProject\\animation\\Source\\animation\\animation.Build.cs",
+		"D:\\ue4Project\\tencentClassProject\\animation\\Source\\animation.Target.cs",
+		"D:\\ue4Project\\tencentClassProject\\animation\\Source\\animationEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.0"
+}

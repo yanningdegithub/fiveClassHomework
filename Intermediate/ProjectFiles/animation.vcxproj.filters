@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\animation.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{33357A2E-F929-4B36-B25A-1253AD39CCAF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\animation.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\animationEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5A111D08-6C92-4219-962E-B90C982E0019}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\animation">
+      <UniqueIdentifier>{2810E54C-0F4A-4C66-85FD-BA5F546C68A9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\animation\animation.Build.cs">
+      <Filter>Source\animation</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\animation\animation.cpp">
+      <Filter>Source\animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\animation\animation.h">
+      <Filter>Source\animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\animation\animationCharacter.cpp">
+      <Filter>Source\animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\animation\animationCharacter.h">
+      <Filter>Source\animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\animation\animationGameMode.cpp">
+      <Filter>Source\animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\animation\animationGameMode.h">
+      <Filter>Source\animation</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

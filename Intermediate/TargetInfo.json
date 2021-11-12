@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "animation",
+			"Path": "D:\\ue4Project\\tencentClassProject\\animation\\Source\\animation.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "animationEditor",
+			"Path": "D:\\ue4Project\\tencentClassProject\\animation\\Source\\animationEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
